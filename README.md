@@ -20,17 +20,17 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | -----------| -------------- |------
 | Fr. Abend  |                | 
 | Sa. Morgen |                | ---
-| Sa. Mittag |                |
+| Sa. Mittag | Spaziergang zu Resti?              |
 | Sa. Abend  |                |
 | So. Morgen |                | ---
 | So. Mittag | Resten         |
 
 
 # Mitbringen Küche
-Salz, Pfeffer, Öl, Essig muss man alles mitnehmen. Bringt Chris.
+Salz, Pfeffer, Öl, Essig muss man alles mitnehmen.
 
 # Mitbringen allgemein
-WC-Papier, Küchentücher. Bringt Dani.
+WC-Papier, Küchentücher.
 
 # Bringt jede Partei für sich
 - Ein paar Einfränkler zum Duschen (3 x 1 Fr. -> beide Duschen ein paar Minuten warm)
