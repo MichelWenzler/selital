@@ -1,28 +1,28 @@
-# Selital (25. bis 27. Oktober)
+# Selital (23. bis 25. Oktober)
 
 Alle Informationen zur Unterkunft: https://www.scchristiania.ch/unser-clubhaus/
 
 # Anreise
-Bitte vorher bei Chris melden, wenn ihr Taxidienst vom Bahnhof Schwarzenburg (je bis 4 Personen) braucht. Wir sind spätestens ab Freitag, 15 Uhr in der Hütte.
+Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab dann jederzeit möglich.
 
 | Partei                     | Anreise  | Abreise
 | ---------------------------| ---------|-----------
-| Denise, Chris, Milla, Ari  | Fr. Nami | So. Mittag 
-| Michel                     | Fr. Nami |
-| Patrizia, Adi, Ellen, Nico | Fr. z'N8 |
-| Patrizia, Anna, Jan        | Sa. z'Mo |
-| Sonja, Jonas, Mara, Julian | Fr. z'N8 |
-| Dani, Lionel               | Fr. Nami |
+|                            |          | 
+|                            |          |
+|                            |          |
+|                            |          |
+|                            |          |
+|                            |          |
 
 
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
 | -----------| -------------- |------
-| Fr. Abend  | Chris          | Orechiette mit Salbei & Haselnüssen / Rahmsösseli mit Schinken für Kids; Trauben und Mandarinen, Most
-| Sa. Morgen | Adi            | ---
-| Sa. Mittag | Jonas          |
-| Sa. Abend  | Patrizia S.    |
-| So. Morgen | Adi            | ---
+| Fr. Abend  |                | 
+| Sa. Morgen |                | ---
+| Sa. Mittag |                |
+| Sa. Abend  |                |
+| So. Morgen |                | ---
 | So. Mittag | Resten         |
 
 
