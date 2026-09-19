@@ -7,7 +7,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 
 | Partei                     | Anreise  | Abreise
 | ---------------------------| ---------|-----------
-|                            |          | 
+| Michel                     | Fr-Nami  | So-Nami
 |                            |          |
 |                            |          |
 |                            |          |
