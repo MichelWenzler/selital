@@ -8,7 +8,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Partei                     | Anreise  | Abreise
 | ---------------------------| ---------|-----------
 | Michel                     | Fr-Nami  | So-Nami
-|                            |          |
+| Denise, Chris, Ari, Milla  |          |
 |                            |          |
 |                            |          |
 |                            |          |
@@ -21,13 +21,13 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Fr. Abend  |                | 
 | Sa. Morgen |                | ---
 | Sa. Mittag | Spaziergang zu Resti?              |
-| Sa. Abend  |                |
+| Sa. Abend  | Denise & Chris |
 | So. Morgen |                | ---
 | So. Mittag | Resten         |
 
 
 # Mitbringen Küche
-Salz, Pfeffer, Öl, Essig muss man alles mitnehmen.
+Salz, Pfeffer, Öl, Essig muss man alles mitnehmen. --> nehmen Chris & Denise mit
 
 # Mitbringen allgemein
 WC-Papier, Küchentücher.
