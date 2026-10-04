@@ -21,7 +21,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | -----------| -------------- |------
 | Fr. Abend  |  Fam. Rentsch  | 
 | Sa. Morgen |                | ---
-| Sa. Mittag | Spaziergang zu Resti?              |
+| Sa. Mittag | Gurnigel Berghaus             |
 | Sa. Abend  | Denise & Chris |
 | So. Morgen |                | ---
 | So. Mittag | Resten         |
