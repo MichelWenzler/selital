@@ -8,17 +8,18 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Partei                     | Anreise  | Abreise
 | ---------------------------| ---------|-----------
 | Michel                     | Fr-Nami  | So-Nami
-| Denise, Chris, Ari, Milla  |          |
-|                            |          |
-|                            |          |
-|                            |          |
-|                            |          |
+| Denise, Chris, Ari, Milla  | Fr-Nami  | So
+| Patrizia, Anna, Jan        | Fr-Abend | Sa-Abend
+| Family Rentsch             | Fr-Abend | Sa-Abend
+| CaSaGil                    | Fr-Abend | So
+| Sonja                      | Fr       | So
+| Dani & Lionel              | Fr       | So
 
 
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
 | -----------| -------------- |------
-| Fr. Abend  |                | 
+| Fr. Abend  |  Fam. Rentsch  | 
 | Sa. Morgen |                | ---
 | Sa. Mittag | Spaziergang zu Resti?              |
 | Sa. Abend  | Denise & Chris |
