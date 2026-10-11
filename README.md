@@ -13,7 +13,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Family Rentsch             | Fr-Abend | Sa-Abend
 | CaSaGil                    | Fr-Abend | So
 | Sonja                      | Fr       | So
-| Dani & Lionel              | Fr       | So
+| Dani & Lionel              | Fr-Abend | So
 
 
 # Menuplan
@@ -22,7 +22,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Fr. Abend  |  Fam. Rentsch  | 
 | Sa. Morgen |                | ---
 | Sa. Mittag | Gurnigel Berghaus             |
-| Sa. Abend  | Denise & Chris |
+| Sa. Abend  | Dani & Sonja |
 | So. Morgen |                | ---
 | So. Mittag | Resten         |
 
