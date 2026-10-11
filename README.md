@@ -10,7 +10,7 @@ Michel nimmt die Hütte am Freitag, 14 Uhr, in Empfang. Individuelle Anreise ab 
 | Michel                     | Fr-Nami  | So-Nami
 | Denise, Chris, Ari, Milla  | Fr-Nami  | So
 | Patrizia, Anna, Jan        | Fr-Abend | Sa-Abend
-| Family Rentsch             | Fr-Abend | Sa-Abend
+| Patrizia, Adi, Ellen, Nico | Fr-Abend | Sa-Abend
 | CaSaGil                    | Fr-Abend | So
 | Sonja                      | Fr       | So
 | Dani & Lionel              | Fr-Abend | So
